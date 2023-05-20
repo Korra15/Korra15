@@ -4,6 +4,9 @@
 **Korra15/Korra15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+hi +
+f
+f
 
 - 🔭 I’m currently working on ... Vue Js
 - 🌱 I’m currently learning ...
