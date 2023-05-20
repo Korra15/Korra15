@@ -1,14 +1,9 @@
 ### Hi there 👋
-hi 
-1. fee
-2. f
+
 <!--
 **Korra15/Korra15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-hi +
-1. fee
-2. f
  
 - 🔭 I’m currently working on ... Vue Js
 - 🌱 I’m currently learning ...
