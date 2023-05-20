@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 hi +
-f
-f
-
+1. fee
+2. f
+ 
 - 🔭 I’m currently working on ... Vue Js
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
